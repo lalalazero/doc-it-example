@@ -6,7 +6,8 @@
   "scripts": {
     "lint": "eslint src/**/*.{jsx,tsx,ts,js} --quiet --fix",
     "type-check": "tsc --noEmit",
-    "type-check:watch": "tsc --noEmit --watch"
+    "type-check:watch": "tsc --noEmit --watch",
+    "doc:dev": "doc-it dev"
   },
   "repository": {
     "type": "git",
