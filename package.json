@@ -1,26 +1,24 @@
 {
-  "name": "typescript-react-demo",
+  "name": "doc-it-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --config build/webpack.config.prod.js",
-    "dev": "webpack-dev-server --config build/webpack.config.dev.js",
     "lint": "eslint src/**/*.{jsx,tsx,ts,js} --quiet --fix",
     "type-check": "tsc --noEmit",
     "type-check:watch": "tsc --noEmit --watch"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lalalazero/typescript-react-demo.git"
+    "url": "git+https://github.com/lalalazero/doc-it-example.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lalalazero/typescript-react-demo/issues"
+    "url": "https://github.com/lalalazero/doc-it-example/issues"
   },
-  "homepage": "https://github.com/lalalazero/typescript-react-demo#readme",
+  "homepage": "https://github.com/lalalazero/doc-it-example#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
