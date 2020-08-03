@@ -1,6 +1,6 @@
 module.exports = {
     title: 'custom title',
-    publicPath: '/doc-it-example',
+    publicPath: '/doc-it-example/',
     outputDir: 'dist',
     demoDir: 'src/demos',
     routes: [
