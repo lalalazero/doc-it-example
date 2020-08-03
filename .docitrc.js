@@ -8,7 +8,7 @@ module.exports = {
             demo: 'IconDemo',
             code: 'iconCode',
             title: 'icon',
-            desc: 'icon的描述',
+            desc: 'icon的描述描述描述',
             path: '/icon'
         },
         {
